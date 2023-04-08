@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inal Kara</h1>
-<img src="code.gif" alt="panorama image"/>
+<img src="code.gif" height="200" alt="panorama image"/>
 <h3 align="center">A passionate frontend developer from Azerabijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morfiux&label=Profile%20views&color=0e75b6&style=flat" alt="morfiux" /> </p>
