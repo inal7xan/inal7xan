@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morfiux&label=Profile%20views&color=0e75b6&style=flat" alt="morfiux" /> </p>
 
 - ⚡ Fun fact **Beyond the impossible**
-<img src="s.gif" width="100" align="right"/>
+<img src="s.gif" width="300" align="right"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/inal-kara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inal-kara" height="30" width="40" /></a>
