@@ -1,23 +1,29 @@
-<h1 align="center">Hi 👋, I'm Inal Kara</h1>
-<h3 align="center">A passionate frontend developer from Azerabijan</h3>
+## Hi all, I'm Inal 👋 I'm a Developer!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morfiux&label=Profile%20views&color=0e75b6&style=flat" alt="morfiux" /> </p>
+- 📍 From Azerbaijan (now in Baku)
+- 💻 3+ Years Experience in Frontend/Fullstack Development
 
-- ⚡ Fun fact **Beyond the impossible**
-<img src="s.gif" width="300" align="right"/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/inal-kara-1844ba268/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inal-kara" height="30" width="40" /></a>
-<a href="https://instagram.com/inal7xan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inal7xan" height="30" width="40" /></a>
-<a href="https://medium.com/@morfiux" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="morfiux" height="30" width="40" /></a>
-</p>
+## 🎉 Skills 🎉
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+- **FrontEnd**: Vue, CSS/LESS/SCSS HTML
+- **BackEnd**: Node (Express)
+- **DevOps**: Nginx, Docker
+- **Databases**: PostegreSQL, Mongo (Mongoose), Redis
+- **Some**: Jira, Confluence, GitLab, Github, npm, linux, sockets, creating ui kits, Ant Design, Bootstrap
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/morfiux"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@morfiux" /></a></p><br><br>
+## 🤝 Connect with me:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morfiux&show_icons=true&locale=en&layout=compact" alt="morfiux" /></p>
+[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morfiux&show_icons=true&locale=en" alt="morfiux" /></p>
+## 📈 GitHub Stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=matador96)
+
+<div align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matador96&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matador96&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
+</div>
+
+[instagram]: https://www.instagram.com/inal7xan/
+[linkedin]: https://www.linkedin.com/in/inal-kara-1844ba268/
+[resume]: 
