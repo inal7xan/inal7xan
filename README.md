@@ -1,7 +1,7 @@
 ## Hi all, I'm Inal 👋 I'm a Developer!
 
 - 📍 From Azerbaijan (now in Baku)
-- 💻 3+ Years Experience in Frontend/Fullstack Development
+- 💻 2+ Years Experience in Frontend/Fullstack Development
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/inal7xan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inal-kara-1844ba268/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/morfiuxCoder) 
